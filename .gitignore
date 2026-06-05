@@ -3,3 +3,6 @@ test-results/
 playwright-report/
 .env
 .DS_Store
+README-backup.md
+README.md.save
+gitignore.txt
