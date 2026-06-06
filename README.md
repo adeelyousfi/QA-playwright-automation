@@ -29,3 +29,5 @@ cd YOUR_REPO_NAME
 npm install
 npm install @playwright/test
 npx playwright install
+
+📄 **[Download My CV](Adeel%20Hasan%20Yousfi%20-%20CV.pdf)**
